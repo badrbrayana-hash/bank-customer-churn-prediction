@@ -240,4 +240,4 @@ The model provides strong predictive capabilities and can support banks in imple
 
 # Author
 
-Powered by **Zougagh Ayoub**
+Powered by **Ben Rayana Badr**
